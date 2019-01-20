@@ -1,0 +1,111 @@
+[{
+    "type": "热门",
+    "TypeList": [
+        {
+        "img":"http://p1.meituan.net/xianfudwm/671cd43043b2e5d8eebc92b53f4976a3117908.jpg",
+        "title": "大鱼丸",
+        "originPrice": "4",
+        "id": 10
+        },{
+            "img": "http://p1.meituan.net/xianfudwm/671cd43043b2e5d8eebc92b53f4976a3117908.jpg",
+            "title": "墨鱼丸",
+            "originPrice": "4",
+            "id": 11
+        },{
+            "img": "http://p1.meituan.net/xianfudwm/671cd43043b2e5d8eebc92b53f4976a3117908.jpg",
+            "title": "小鱼丸",
+            "originPrice": "4",
+            "id": 12
+        },{
+        "img": "http://p1.meituan.net/xianfudwm/671cd43043b2e5d8eebc92b53f4976a3117908.jpg",
+        "title": "中鱼丸",
+        "originPrice": "4",
+        "id": 13
+        }
+    ]
+},{
+    "type": "打包盒必点",
+    "TypeList": [
+        {
+            "img": "http://p1.meituan.net/xianfu/9d14e1ba71fc0cb0928e0039c438e561329393.jpg",
+            "title": "猪肉韭菜",
+            "originPrice": "15",
+            "id": 20
+        },
+        {
+            "img": "http://p1.meituan.net/xianfudwm/671cd43043b2e5d8eebc92b53f4976a3117908.jpg",
+            "title": "白菜韭菜",
+            "originPrice": "15",
+            "id": 21
+        },
+        {
+            "img": "http://p1.meituan.net/xianfudwm/671cd43043b2e5d8eebc92b53f4976a3117908.jpg",
+            "title": "猪肉茴香",
+            "originPrice": "15",
+            "id": 22
+        },
+        {
+            "img": "http://p1.meituan.net/xianfudwm/671cd43043b2e5d8eebc92b53f4976a3117908.jpg",
+            "title": "猪肉大葱",
+            "originPrice": "15",
+            "id": 23
+        }
+    ]
+},{
+    "type": "打包盒必点",
+    "TypeList": [
+        {
+            "img": "http://p1.meituan.net/xianfu/9d14e1ba71fc0cb0928e0039c438e561329393.jpg",
+            "title": "猪肉韭菜",
+            "originPrice": "15",
+            "id": 30
+        },
+        {
+            "img": "http://p1.meituan.net/xianfudwm/671cd43043b2e5d8eebc92b53f4976a3117908.jpg",
+            "title": "白菜韭菜",
+            "originPrice": "15",
+            "id": 31
+        },
+        {
+            "img": "http://p1.meituan.net/xianfudwm/671cd43043b2e5d8eebc92b53f4976a3117908.jpg",
+            "title": "猪肉茴香",
+            "originPrice": "15",
+            "id": 32
+        },
+        {
+            "img": "http://p1.meituan.net/xianfudwm/671cd43043b2e5d8eebc92b53f4976a3117908.jpg",
+            "title": "猪肉大葱",
+            "originPrice": "15",
+            "id": 33
+        }
+    ]
+},
+{
+    "type": "热门小吃",
+    "TypeList": [
+        {
+            "img": "http://p0.meituan.net/xianfudwm/33c6eb9ba8334370593cb157fc919fef139535.jpg",
+            "title": "脆骨肠（大）",
+            "originPrice": "15",
+            "id": 40
+        },
+        {
+            "img": "http://p1.meituan.net/xianfudwm/671cd43043b2e5d8eebc92b53f4976a3117908.jpg",
+            "title": "黑胡椒大肉块烤肠",
+            "originPrice": "15",
+            "id": 41
+        },
+        {
+            "img": "http://p1.meituan.net/xianfudwm/671cd43043b2e5d8eebc92b53f4976a3117908.jpg",
+            "title": "鸡柳",
+            "originPrice": "15",
+            "id": 42
+        },
+        {
+            "img": "http://p1.meituan.net/xianfudwm/671cd43043b2e5d8eebc92b53f4976a3117908.jpg",
+            "title": "骨肉相连",
+            "originPrice": "15",
+            "id": 43
+        }
+    ]
+}]
